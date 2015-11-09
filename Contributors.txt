@@ -1,3 +1,4 @@
-The contributors (team members) to this repository and by extension rIGS are:
+The contributors (team members) to this repository, and by extension rIGS, are:
 
-Thomas Hebden - plutonium12120
+NAME			USER
+Thomas Hebden    - 	plutonium12120
